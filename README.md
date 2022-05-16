@@ -1,2 +1,2 @@
 # Nodejs-Multiclient-live-chatting-app
-![Screenshot](mm.png)
+<img src="mm.png" width="128"/>
